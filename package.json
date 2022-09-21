@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "guilded.js": "^0.13.14",
+    "simple-json-db": "^2.0.0"
+  }
+}
